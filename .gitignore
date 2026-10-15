@@ -1,0 +1,17 @@
+# Byte-compiled files and user configs
+*.exe
+*.out
+.vscode/
+.DS_Store
+
+# Build directories
+build/
+/bin/
+/obj/
+
+# OS files
+Thumbs.db
+
+# Backup files
+*~
+*.swp
